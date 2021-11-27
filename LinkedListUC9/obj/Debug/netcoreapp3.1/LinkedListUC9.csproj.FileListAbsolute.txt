@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.exe
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.deps.json
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.dll
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\bin\Debug\netcoreapp3.1\LinkedListUC9.pdb
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.dll
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.pdb
+C:\Users\Shivam Shekhar\source\DAY14 LINKEDLIST\LinkedListUC9\obj\Debug\netcoreapp3.1\LinkedListUC9.genruntimeconfig.cache
